@@ -1,5 +1,13 @@
 # Udacity SQL Project and Analysis on Deforestation from 1990 to 2016
 
+# Installation and Loading of Files
+
+1) Download PostgreSQL: https://www.postgresql.org
+2) Download includes pgAdmin
+3) Create database: Deforestation
+4) Run query on code in Deforeststion_DDL.sql
+5) Run query on code in Data_Insertion.sql
+
 ## Project Requirements
 
 **JOIN TABLES AND CREATE VIEW**
