@@ -1,4 +1,4 @@
-# Udacity SQL Project and Analysis on Deforeststion from 1990 to 2016
+# Udacity SQL Project and Analysis on Deforestation from 1990 to 2016
 
 ## Project Requirements
 
